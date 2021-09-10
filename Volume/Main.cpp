@@ -41,7 +41,7 @@ void Intro()
 void V()
 {
 	cout << "\n\nGood. It is now up to you who dies and who lives\n\n";
-	cout << "\n\nPicking none of them to die kills them all\n\n" << endl << endl;
+	cout << "\n\nIf you choose the first two to live then the last one dies.\n\n" << endl << endl;
 	RoomsOn();
 	cout << "L or D?:";
 	cin >> awn;
